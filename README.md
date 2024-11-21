@@ -1,7 +1,5 @@
 # PDF-Table-Extractor
 
-# PDF Table Extractor
-
 ## Overview
 A web application to extract tables from PDF files, with support for password-protected PDFs and multi-page documents.
 
